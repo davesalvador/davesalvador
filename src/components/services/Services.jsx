@@ -29,10 +29,10 @@ const Services = () => {
       className="services"
       variants={variants}
       initial="initial"
-      // animate="animate"
-      // whileInView="animate"
+      //   animate="animate"
+      whileInView="animate"
       ref={ref}
-      animate={"animate"}
+      //   animate={"animate"}
     >
       <motion.div className="textContainer" variants={variants}>
         <p>
@@ -63,10 +63,12 @@ const Services = () => {
         >
           <h2>Frontend</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Using React.js, we deliver 🚀 high-performance apps. With 🌍 modern
+            JavaScript and ✍️ JSX, we craft intuitive interfaces. Data is
+            managed seamlessly with 💼 Redux, navigation optimized with 🔀 React
+            Router, and features enhanced using 🎣 Hooks. Our styles are dynamic
+            via 🎨 CSS-in-JS, and bundling with 📦 Webpack & Babel ensures broad
+            compatibility.
           </p>
           <button>Go</button>
         </motion.div>
@@ -74,12 +76,12 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Backend</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Using 🖥️ Node.js, we offer swift, non-blocking backend performance.
+            With 🛤️ Express.js, we streamline web app creation and, coupled with
+            🗃️ MongoDB's flexible NoSQL storage, ensure a secure, scalable, and
+            efficient backend for contemporary web solutions.
           </p>
           <button>Go</button>
         </motion.div>
@@ -87,12 +89,12 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Version Control</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Utilizing 🌲 Git, we track every code change, ensuring seamless
+            merges and rollbacks. Paired with 🌐 GitHub, we enhance
+            collaboration with features like pull requests and reviews,
+            strengthening our development and transparency.
           </p>
           <button>Go</button>
         </motion.div>
@@ -100,12 +102,15 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Tools</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Using the MERN stack, our development is powered by tools like 📝
+            Visual Studio Code with GitLens and 🎨 React Developer Tools for
+            optimal coding and insights. 🌌 Postman fortifies our APIs, 🌉
+            MongoDB Compass clarifies our database work, and code standards are
+            upheld with 🐞 ESLint and Prettier. With 🐳 Docker's adaptability
+            and 🌐 GitHub Desktop's collaboration, we ensure a swift and
+            reliable app development process.
           </p>
           <button>Go</button>
         </motion.div>
