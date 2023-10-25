@@ -25,7 +25,7 @@ const items = [
     img: "/P2.png",
     demoImages: ["/P2.png", "/P3.png", "/P4.png"],
     desc: "This device is capable of monitoring the electrical parameters of cabled streetlight. More so, the device can detect power cable theft, lamb theft, burn-out lamp, and electricity theft, and inform the streetlight administrators of the said event.",
-    tech: "Tech Stack : MongoDB Express.JS React.JS Node.JS SCSS",
+    tech: "Tech Stack : MongoDB Express.JS React.JS Node.JS SCSS Arduino Python",
     cont: "Contribution: Created the Full Website and the design ",
   },
   {
