@@ -1,4 +1,3 @@
-import React from "react";
 import "./navbar.scss";
 import { motion } from "framer-motion";
 import SideBar from "../sidebar/SideBar";
@@ -18,6 +17,7 @@ const NavBar = () => {
             const {"<"} Dave {"/>"}
           </span>
         </motion.span>
+        {}
         <div className="social">
           <a href="https://www.facebook.com/contsdavesalvador/" target="_blank">
             <svg
