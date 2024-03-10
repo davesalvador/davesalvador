@@ -1,4 +1,5 @@
+
 {
-  "name":"Dave",
-  "skills":["JavaScript", "Python", "C#", "Node.js", "React"]
+  "name": "Dave",
+  "skills":["Javascript", "Node.js", "ReactJS", "C#", "Python"]
 }
