@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous 'Never Gonna Give You Up'." src="https://github.com/davesalvador/davesalvador/blob/main/nice.gif?raw=true" width="100%">
+<div class="tenor-gif-embed" data-postid="22756478" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/admiralbulldog-dota2-alliance-nicela-gif-22756478">Admiralbulldog Dota2 GIF</a>from <a href="https://tenor.com/search/admiralbulldog-gifs">Admiralbulldog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ```json
 {
