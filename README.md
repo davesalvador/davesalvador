@@ -8,33 +8,39 @@
 ```
 
 
-<img 
-  alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous 'Never Gonna Give You Up'." 
-  src="https://github.com/davesalvador/davesalvador/blob/main/og-dota.gif?raw=true" 
-  width="100%"
->
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous 'Never Gonna Give You Up'." src="https://github.com/davesalvador/davesalvador/blob/main/og-dota.gif?raw=true" width="100%">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; height: 100vh;">
+
+
+
+<div style="display: flex; flex-direction: column; width: 100%; height: 100vh; gap: 20px;">
   <img 
-    alt="Minji image 1" 
-    src="https://github.com/davesalvador/davesalvador/blob/main/minji1.webp?raw=true" 
-    style="max-width: 20%; height: auto; object-fit: cover; border-radius: 8px;"
+    alt="Main image" 
+    src="https://github.com/davesalvador/davesalvador/blob/main/og-dota.gif?raw=true" 
+    style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;"
   >
-  <img 
-    alt="Minji image 2" 
-    src="https://github.com/davesalvador/davesalvador/blob/main/minji2.gif?raw=true" 
-    style="max-width: 20%; height: auto; object-fit: cover; border-radius: 8px;"
-  >
-  <img 
-    alt="Minji image 3" 
-    src="https://github.com/davesalvador/davesalvador/blob/main/minji3.webp?raw=true" 
-    style="max-width: 20%; height: auto; object-fit: cover; border-radius: 8px;"
-  >
-  <img 
-    alt="Minji image 4" 
-    src="https://github.com/davesalvador/davesalvador/blob/main/minji4.webp?raw=true" 
-    style="max-width: 20%; height: auto; object-fit: cover; border-radius: 8px;"
-  >
+  <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px; width: 100%; height: auto;">
+    <img 
+      alt="Minji image 1" 
+      src="https://github.com/davesalvador/davesalvador/blob/main/minji1.webp?raw=true" 
+      style="width: 25%; height: auto; object-fit: cover; border-radius: 8px;"
+    >
+    <img 
+      alt="Minji image 2" 
+      src="https://github.com/davesalvador/davesalvador/blob/main/minji2.gif?raw=true" 
+      style="width: 25%; height: auto; object-fit: cover; border-radius: 8px;"
+    >
+    <img 
+      alt="Minji image 3" 
+      src="https://github.com/davesalvador/davesalvador/blob/main/minji3.webp?raw=true" 
+      style="width: 25%; height: auto; object-fit: cover; border-radius: 8px;"
+    >
+    <img 
+      alt="Minji image 4" 
+      src="https://github.com/davesalvador/davesalvador/blob/main/minji4.webp?raw=true" 
+      style="width: 25%; height: auto; object-fit: cover; border-radius: 8px;"
+    >
+  </div>
 </div>
 
 
