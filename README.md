@@ -9,26 +9,26 @@
 
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous 'Never Gonna Give You Up'." src="https://github.com/davesalvador/davesalvador/blob/main/og-dota.gif?raw=true" width="100%">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; height: 100vh;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; height: 100vh; padding: 0 20px; box-sizing: border-box;">
   <img 
     alt="Minji image 1" 
     src="https://github.com/davesalvador/davesalvador/blob/main/minji1.webp?raw=true" 
-    style="width: 205px; height: 200px; object-fit: cover; border-radius: 8px;"
+    style="flex: 1; height: 100%; object-fit: cover; border-radius: 8px;"
   >
   <img 
     alt="Minji image 2" 
     src="https://github.com/davesalvador/davesalvador/blob/main/minji2.gif?raw=true" 
-    style="width: 205px; height: 200px; object-fit: cover; border-radius: 8px;"
+    style="flex: 1; height: 100%; object-fit: cover; border-radius: 8px;"
   >
   <img 
     alt="Minji image 4" 
     src="https://github.com/davesalvador/davesalvador/blob/main/minji4.webp?raw=true" 
-    style="width: 205px; height: 200px; object-fit: cover; border-radius: 8px;"
+    style="flex: 1; height: 100%; object-fit: cover; border-radius: 8px;"
   >
   <img 
     alt="Minji image 3" 
     src="https://github.com/davesalvador/davesalvador/blob/main/minji3.webp?raw=true" 
-    style="width: 205px; height: 200px; object-fit: cover; border-radius: 8px;"
+    style="flex: 1; height: 100%; object-fit: cover; border-radius: 8px;"
   >
 </div>
 
