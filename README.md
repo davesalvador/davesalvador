@@ -8,17 +8,12 @@
 ```
 
 
+<div style="display: flex; flex-direction: column; width: 100%; height: 100vh; gap: 20px;">
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous 'Never Gonna Give You Up'." src="https://github.com/davesalvador/davesalvador/blob/main/og-dota.gif?raw=true" width="100%">
 
 
 
 
-<div style="display: flex; flex-direction: column; width: 100%; height: 100vh; gap: 20px;">
-  <img 
-    alt="Main image" 
-    src="https://github.com/davesalvador/davesalvador/blob/main/og-dota.gif?raw=true" 
-    style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;"
-  >
   <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px; width: 100%; height: auto;">
     <img 
       alt="Minji image 1" 
