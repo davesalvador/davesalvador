@@ -3,7 +3,7 @@
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous 'Never Gonna Give You Up'." src="https://github.com/davesalvador/davesalvador/blob/main/og-dota.gif?raw=true" width="100%">
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; height: 100vh;">
   <img 
     alt="Minji image 1" 
     src="https://github.com/davesalvador/davesalvador/blob/main/minji1.webp?raw=true" 
