@@ -14,21 +14,21 @@
   <img 
     alt="Minji image 1" 
     src="https://github.com/davesalvador/davesalvador/blob/main/minji1.webp?raw=true" 
-    style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"
+    style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
   >
   <img 
     alt="Minji image 2" 
     src="https://github.com/davesalvador/davesalvador/blob/main/minji2.gif?raw=true" 
-    style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"
+    style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
   >
   <img 
     alt="Minji image 4" 
     src="https://github.com/davesalvador/davesalvador/blob/main/minji4.webp?raw=true" 
-    style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"
+    style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
   >
   <img 
     alt="Minji image 3" 
     src="https://github.com/davesalvador/davesalvador/blob/main/minji3.webp?raw=true" 
-    style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;"
+    style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;"
   >
 </div>
