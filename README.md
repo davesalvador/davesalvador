@@ -2,7 +2,7 @@
 ```json
 {
   "name": "Dave",
-  "skills": [" "]
+  "skills": ["_"]
 }
 ```
 
